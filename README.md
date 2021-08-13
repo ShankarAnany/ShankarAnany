@@ -1,10 +1,10 @@
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anany Shankar</h1>
 
 ## 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning Python And Pygame.
-
-## 📊 My Github Stats
+- 🔭 I'm currently working on a Tower Defence Game in Pygame.
 
 <p align="center">
   <br/>
@@ -16,5 +16,4 @@
 
 <a href="https://github.com/ShankarAnany/github-readme-activity-graph"><img alt="Anany Shankar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ShankarAnany&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-  ## Stack Overflow
-  <img src="https://github-readme-stackoverflow.vercel.app/?userID=16460928&layout=compact&theme=dark"/>
+<img src="https://github-readme-stackoverflow.vercel.app/?userID=16460928&layout=compact&theme=dark"/>
