@@ -3,8 +3,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning Python And Pygame.
-- 🔭 I'm currently working on a Tower Defence Game in Pygame.
+- 🌱 I’m currently learning <b>Python And Pygame</b>.
+- 🔭 I'm currently working on a <b>Tower Defence Game in Pygame</b>.
+- 📖 I'm currently reading <b>Beginning Python Game Development with Pygame</b>.
 
 <p align="center">
   <br/>
