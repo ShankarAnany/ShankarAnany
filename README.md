@@ -4,7 +4,7 @@
 ## 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning <b>Python And Pygame</b>.
-- 🔭 I'm currently working on a <b>Tower Defence Game in Pygame</b>.
+- 🔭 I'm currently working on a <b>Captain Clown Nose's Adventure</b> (Platformer Game).
 - 📖 I'm currently reading <b>Beginning Python Game Development with Pygame</b>.
 
 <p align="center">
