@@ -2,8 +2,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning <b>Python And Pygame</b>.
-- 🔭 I'm currently working on a <b>Captain Clown Nose's Adventure</b> (Platformer Game).
+- 🌱 I’m currently learning <b>Python</b>.
 
 <p align="center">
   <br/>
