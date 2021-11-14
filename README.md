@@ -1,9 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anany Shankar</h1>
 
-## 🙋‍♂️ About Me
-
-- 🌱 I’m currently learning <b>Python</b>.
-
 <p align="center">
   <br/>
     <a href="https://github.com/ShankarAnany/github-readme-stats"><img alt="Anany Shankar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ShankarAnany&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
